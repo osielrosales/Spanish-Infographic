@@ -1,0 +1,70 @@
+1. Translate "Hello"
+1. Bonjour
+2. Hola
+3. Ni hao
+4. Aloha
+2
+E
+2. Translate "How are you?"
+1. Como vai
+2. Como Estas
+3. Kako si
+4. Conas tá tú
+2
+E
+3. Translate "Goodbye"
+1. Adios
+2. Adéu
+3. Muraho
+4. Arrivederci
+1
+E
+4. Translate "Thank you"
+1. Gracias
+2. Grazie
+3. Dankie
+4. Hvala vam
+1
+E
+5. Translate "How old are you"
+1. Cuántos años tienes
+2. Quot annos nata es
+3. Hvor gammel er du
+4. Quanti anni hai
+1
+M
+6. Translate "What is your name?"
+1. Qual o seu nome
+2. Come ti chiami
+3. Quod nomen tibi est
+4. Cómo te llamas
+4
+M
+7. Translate "Do you speak English?"
+1. Parles-tu anglais
+2. Você fala inglês
+3. Hablas inglés
+4. Lei parla inglese
+3
+M
+8. Translate "What time is it?"
+1. Quelle heure est-il
+2. Qué hora es
+3. Che ore sono
+4. Anong oras na
+2
+M
+9. Translate "I took my dog for a walk"
+1. Levo meu cachorro para passear
+2. Levei meu cachorro para passear
+3. Saquia a mi perro a pasear
+4. Saqué a mi perro a pasear
+4
+H
+10. Translate "I need a telephone"
+1. Necesito un telefono
+2. Eu precisia de um telefone
+3. Necesitaba un telefono
+4. Eu preciso de um telefone
+1
+H
